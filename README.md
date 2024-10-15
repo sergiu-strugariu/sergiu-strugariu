@@ -8,7 +8,7 @@ I am a Junior Web Developer with 3 years of experience, with expertise in board 
 
 * 🌍  I'm based in Iasi, Romania
 * ✉️  You can contact me at [sstrugariu.7@icloud.com](mailto:sstrugariu.7@icloud.com)
-* 🚀  I'm currently working on [Move On](http://moveon.ro/)
+* 🚀  I'm currently working on [Move On](http://www.move-on.ro/)
 * 🤝  I'm open to collaborating on CMS Projects or prezentation websites.
 * ⚡  I don't drink coffe...
 
