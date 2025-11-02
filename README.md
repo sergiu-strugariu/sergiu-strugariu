@@ -6,9 +6,9 @@ Web Developer
 
 I am a Full Stack Web Developer with 3 years of experience, with expertise in board spectrum of applications, with an emphasis on web. I've started programming at 14 yo. and after 8 years of practicing I've learned a lot of things, and I'm still learning.
 
-* 🌍  I'm based in Iasi, Romania
+* 🌍  I'm based in Romania
 * ✉️  You can contact me at [sstrugariu.7@icloud.com](mailto:sstrugariu.7@icloud.com)
-* 🚀  I'm currently working on [Asertivo](https://www.asertivo.ro/)
+* 🚀  I'm currently working on Taxi2Go mobile app aplication.
 * 🤝  I'm open to collaborating on CMS Projects or prezentation websites.
 * ⚡  I don't drink coffe...
 
