@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a Full Stack Web Developer with 3 years of experience, with expertise in board spectrum of applications, with an emphasis on web. I've started programming at 14 yo. and after 8 years of practicing I've learned a lot of things, and I'm still learning.
+I am a Full Stack Web Developer with 7 years of experience, with expertise in board spectrum of applications, with an emphasis on web. I've started programming at 14 yo. and after 8 years of practicing I've learned a lot of things, and I'm still learning.
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [sstrugariu.7@icloud.com](mailto:sstrugariu.7@icloud.com)
